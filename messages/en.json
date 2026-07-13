@@ -1,0 +1,111 @@
+{
+  "common": {
+    "appName": "Katoen Natie Moves Together",
+    "tagline": "One Company. One Movement.",
+    "joinChallenge": "Join Challenge",
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "participants": "Participants",
+    "points": "Points",
+    "distance": "Distance",
+    "km": "km",
+    "active": "Active",
+    "upcoming": "Upcoming",
+    "completed": "Completed",
+    "global": "Global",
+    "search": "Search...",
+    "signIn": "Sign In",
+    "register": "Register",
+    "profile": "Profile",
+    "myAccount": "My Account",
+    "signOut": "Sign Out"
+  },
+  "nav": {
+    "home": "Home",
+    "tourDeFrance": "Tour de France",
+    "challenges": "Challenges",
+    "predictions": "Predictions",
+    "community": "Community",
+    "leaderboards": "Leaderboards",
+    "profiles": "Profiles",
+    "teams": "Teams",
+    "about": "About"
+  },
+  "home": {
+    "heroTitle": "Unite Through Sport",
+    "heroSubtitle": "Join colleagues across 32 countries and 68 terminals in cycling, running, football predictions, and more.",
+    "globalActivity": "Global Activity Map",
+    "currentChallenges": "Current Challenges",
+    "topMovers": "Top Movers This Week",
+    "recentActivity": "Recent Community Activity",
+    "stats": {
+      "participants": "Active Participants",
+      "distance": "Total Distance",
+      "countries": "Countries",
+      "terminals": "Terminals"
+    }
+  },
+  "challenges": {
+    "title": "Challenges Hub",
+    "subtitle": "Push your limits with virtual stages, distance goals, and custom company challenges.",
+    "cycling": "Cycling",
+    "running": "Running & Walking",
+    "custom": "Company Challenges",
+    "stages": "Stages",
+    "progress": "Progress",
+    "join": "Join Challenge"
+  },
+  "predictions": {
+    "title": "Predictions Arena",
+    "subtitle": "Compete in football prediction leagues for major tournaments worldwide.",
+    "upcomingMatches": "Upcoming Matches",
+    "myPredictions": "My Predictions",
+    "leaderboard": "Prediction Leaderboard",
+    "submit": "Submit Prediction"
+  },
+  "community": {
+    "title": "Community Feed",
+    "subtitle": "Share your achievements, photos, and moments from terminals worldwide.",
+    "post": "Share Activity",
+    "likes": "likes",
+    "comments": "comments"
+  },
+  "leaderboards": {
+    "title": "Leaderboards",
+    "subtitle": "See how you rank globally, regionally, and within your terminal.",
+    "global": "Global",
+    "cycling": "Cycling",
+    "predictions": "Predictions",
+    "byCountry": "By Country",
+    "byTerminal": "By Terminal"
+  },
+  "profiles": {
+    "title": "Profiles & Teams",
+    "subtitle": "Connect with colleagues and represent your department, country, or terminal.",
+    "achievements": "Achievements",
+    "stats": "Statistics",
+    "teams": "Teams"
+  },
+  "auth": {
+    "registerTitle": "Create your profile",
+    "registerSubtitle": "Join with your Katoen Natie or personal email",
+    "loginTitle": "Sign in",
+    "pendingTitle": "Awaiting approval",
+    "corporateEmailHint": "Katoen Natie email — instant access after confirmation",
+    "personalEmailHint": "Personal email — requires team approval"
+  },
+  "account": {
+    "title": "My profile",
+    "subtitle": "Manage your account and connected services",
+    "stravaTitle": "Strava",
+    "adminTitle": "Team approvals"
+  },
+  "about": {
+    "title": "About Katoen Natie Sports",
+    "subtitle": "Celebrating movement, health, and company pride across all continents.",
+    "sponsorships": "Our Sponsorships",
+    "wellbeing": "Wellbeing at Work",
+    "globalReach": "Global Reach",
+    "wellbeingText": "At Katoen Natie, we believe that physical activity is essential to wellbeing. Our global sports community connects employees and partners through shared challenges, friendly competition, and the joy of movement — because a healthy team moves the world forward."
+  }
+}

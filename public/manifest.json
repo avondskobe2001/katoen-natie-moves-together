@@ -1,0 +1,26 @@
+{
+  "name": "Katoen Natie Moves Together",
+  "short_name": "KN Moves",
+  "description": "One Company. One Movement. — Global corporate sports community platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ebe6e1",
+  "theme_color": "#c8102e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["sports", "health", "social"],
+  "lang": "en"
+}

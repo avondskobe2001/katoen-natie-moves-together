@@ -1,0 +1,93 @@
+{
+  "common": {
+    "appName": "Katoen Natie Moves Together",
+    "tagline": "Eén Bedrijf. Eén Beweging.",
+    "joinChallenge": "Doe Mee",
+    "viewAll": "Bekijk Alles",
+    "learnMore": "Meer Info",
+    "participants": "Deelnemers",
+    "points": "Punten",
+    "distance": "Afstand",
+    "km": "km",
+    "active": "Actief",
+    "upcoming": "Binnenkort",
+    "completed": "Afgerond",
+    "global": "Wereldwijd",
+    "search": "Zoeken...",
+    "signIn": "Inloggen",
+    "profile": "Profiel"
+  },
+  "nav": {
+    "home": "Home",
+    "challenges": "Uitdagingen",
+    "predictions": "Voorspellingen",
+    "community": "Community",
+    "leaderboards": "Ranglijsten",
+    "profiles": "Profielen",
+    "teams": "Teams",
+    "about": "Over Ons"
+  },
+  "home": {
+    "heroTitle": "Verenigd Door Sport",
+    "heroSubtitle": "Sluit je aan bij collega's in 32 landen en 68 terminals — fietsen, lopen, voetbalvoorspellingen en meer.",
+    "globalActivity": "Wereldwijde Activiteitenkaart",
+    "currentChallenges": "Huidige Uitdagingen",
+    "topMovers": "Top Bewegers Deze Week",
+    "recentActivity": "Recente Community Activiteit",
+    "stats": {
+      "participants": "Actieve Deelnemers",
+      "distance": "Totale Afstand",
+      "countries": "Landen",
+      "terminals": "Terminals"
+    }
+  },
+  "challenges": {
+    "title": "Uitdagingen Hub",
+    "subtitle": "Verleg je grenzen met virtuele etappes, afstandsdoelen en bedrijfsuitdagingen.",
+    "cycling": "Fietsen",
+    "running": "Lopen & Wandelen",
+    "custom": "Bedrijfsuitdagingen",
+    "stages": "Etappes",
+    "progress": "Voortgang",
+    "join": "Doe Mee"
+  },
+  "predictions": {
+    "title": "Voorspellingen Arena",
+    "subtitle": "Wedijver in voetbalvoorspellingscompetities voor grote toernooien wereldwijd.",
+    "upcomingMatches": "Aankomende Wedstrijden",
+    "myPredictions": "Mijn Voorspellingen",
+    "leaderboard": "Voorspellingsranglijst",
+    "submit": "Voorspelling Indienen"
+  },
+  "community": {
+    "title": "Community Feed",
+    "subtitle": "Deel je prestaties, foto's en momenten van terminals wereldwijd.",
+    "post": "Deel Activiteit",
+    "likes": "likes",
+    "comments": "reacties"
+  },
+  "leaderboards": {
+    "title": "Ranglijsten",
+    "subtitle": "Bekijk je positie wereldwijd, regionaal en binnen je terminal.",
+    "global": "Wereldwijd",
+    "cycling": "Fietsen",
+    "predictions": "Voorspellingen",
+    "byCountry": "Per Land",
+    "byTerminal": "Per Terminal"
+  },
+  "profiles": {
+    "title": "Profielen & Teams",
+    "subtitle": "Maak contact met collega's en vertegenwoordig je afdeling, land of terminal.",
+    "achievements": "Prestaties",
+    "stats": "Statistieken",
+    "teams": "Teams"
+  },
+  "about": {
+    "title": "Over Katoen Natie Sport",
+    "subtitle": "Beweging, gezondheid en bedrijfstrots vieren op alle continenten.",
+    "sponsorships": "Onze Sponsoring",
+    "wellbeing": "Welzijn op het Werk",
+    "globalReach": "Wereldwijde Bereik",
+    "wellbeingText": "Bij Katoen Natie geloven we dat fysieke activiteit essentieel is voor welzijn. Onze wereldwijde sportcommunity verbindt medewerkers en partners via gedeelde uitdagingen, vriendschappelijke competitie en het plezier van bewegen — want een gezond team beweegt de wereld vooruit."
+  }
+}
