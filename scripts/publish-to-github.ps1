@@ -14,9 +14,10 @@ if ($LASTEXITCODE -ne 0) {
     gh auth login --hostname github.com --git-protocol https --web
 }
 
+# GitHub converts spaces to hyphens: "katoen natie moves together" -> katoen-natie-moves-together
 $repoName = "katoen-natie-moves-together"
 Write-Host "Creating public repo: $repoName" -ForegroundColor Cyan
-gh repo create $repoName --public --source=. --remote=origin --push --description "Katoen Natie Moves Together — corporate sports community platform"
+gh repo create $repoName --public --source=. --remote=origin --push --description "Katoen Natie Moves Together - corporate sports community platform"
 
 if ($LASTEXITCODE -eq 0) {
     $url = gh repo view --json url -q .url
